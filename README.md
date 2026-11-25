@@ -108,6 +108,11 @@ Seluruh data cuaca diambil secara dinamis menggunakan metode **HTTP GET** menggu
 
 ---
 ## SCREENSHOOT APLIKASI
+<img width="537" height="845" alt="Screenshot 2026-11-26 001817" src="https://github.com/user-attachments/assets/d1b00b2c-cf8e-4c2a-a0df-2bc8e0d6b43f" />
+<img width="540" height="838" alt="Screenshot 2026-11-26 003225" src="https://github.com/user-attachments/assets/2e183dcc-c739-4fc2-accb-aa883fd732b6" />
+<img width="542" height="843" alt="Screenshot 2026-11-26 003232" src="https://github.com/user-attachments/assets/d503117f-2354-44f9-9298-4aa258f194ba" />
+<img width="537" height="838" alt="Screenshot 2026-11-26 003606" src="https://github.com/user-attachments/assets/11972774-2195-489f-83ac-51e52cd4775e" />
+
 ---
 
 ## Cara Menjalankan Proyek
